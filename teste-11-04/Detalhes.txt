@@ -1,0 +1,8 @@
+De antemão peço desculpas pois minha internet estava muito instavel
+
+Rodei o projeto do laravel, baixei o jetstream para criar o sistema de login;
+resgatei o date_of_birth; 
+Rodei as migrations;
+
+Faltou implementar o controller para fazer o calculo da idade
+e em seguida a questão 2.
